@@ -91,7 +91,7 @@ p {
     grid-area: description;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 380px) {
     .hero-container {
     grid-template-columns: 70px 1fr;
     grid-template-areas: "badge title"
